@@ -1,5 +1,8 @@
-<img src="./header.png" alt="theme" width="100">
-<h3> I'm Front-End Developer (junior)</h3>
+<img src="./header.png" alt="theme">
+<h3 id="header" align="center"> I'm Front-End Developer (junior)</h3>
+
+##About me
+
 
 <div id="contacts" align="center">
   <h1>Contact me:</h1>
