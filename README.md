@@ -1,7 +1,7 @@
 <img src="./header.png" alt="theme">
 <h3 id="header" align="center"> I'm Front-End Developer (junior)</h3>
 
-##About me
+## About me
 
 
 <div id="contacts" align="center">
