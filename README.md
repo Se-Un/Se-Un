@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="../theme.jpg" alt="theme">
+  <img src="./header.jpg" alt="theme">
   <h1>Hi there, I'm Kim Se-Un</h1>
   <h3>Front-End Developer (junior)</h3>
 </div>
