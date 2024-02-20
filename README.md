@@ -1,16 +1,13 @@
-### Hi there 👋
-
-<!--
-**Se-Un/Se-Un** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div id="header" align="center">
+  <h1>Hi there, I'm Se-Un</h1>
+  <h3>Web/Frontend Developer (junior)</h3>
+</div>
+<div id="links" align="center">
+  <a href="https://www.linkedin.com/in/se-un-kim-278542215/">
+    <img src="https://shields.io./badge/Linkedin-skyblue?style=for-the-badge&logo=linkedin&logoColor=white&color=blue" alt="linkedin">
+  </a>
+  <a href="https://t.me/skim1994">
+    <img src="https://shields.io./badge/Telegram-skyblue?style=for-the-badge&logo=Telegram&logoColor=white&color=blue
+    " alt="telegram">
+  </a>
+</div>
