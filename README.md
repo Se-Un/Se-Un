@@ -1,4 +1,4 @@
-<img src="./header.jpg" alt="theme" width="100">
+<img src="./header.png" alt="theme" width="100">
 <h3> I'm Front-End Developer (junior)</h3>
 
 <div id="contacts" align="center">
