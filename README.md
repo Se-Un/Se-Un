@@ -9,18 +9,21 @@
 
 ## Languages and Tools
 <div id="images" align="center">
-  <img src="./image/html5-original.svg" alt="html" width="50" height="50">
-  <img src="./image/css3-original.svg" alt="css" width="50" height="50">
-  <img src="./image/javascript-original.svg" alt="js" width="50" height="50">
-  <img src="./image/react-original-wordmark.svg" alt="react" width="50" height="50">
-  <img src="./image/webpack-plain-wordmark.svg" alt="webpack" width="50" height="50">
-  <img src="./image/figma-original.svg" alt="figma" width="50" height="50">
-  <img src="./image/nodejs-plain-wordmark.svg" alt="node.js" width="50" height="50">
-  <img src="./image/express-original-wordmark.svg" alt="express" width="50" height="50">
-  <img src="./image/mongodb-plain-wordmark.svg" alt="mongoDB" width="50" height="50">
-  <img src="./image/postman-plain-wordmark.svg" alt="postman" width="50" height="50">
-  <img src="./image/git-plain-wordmark.svg" alt="git" width="50" height="50">
+  <img src="./image/html5-original.svg" alt="html" width="80" height="80">
+  <img src="./image/css3-original.svg" alt="css" width="80" height="80">
+  <img src="./image/javascript-original.svg" alt="js" width="80" height="80">
+  <img src="./image/react-original-wordmark.svg" alt="react" width="80" height="80">
+  <img src="./image/webpack-plain-wordmark.svg" alt="webpack" width="80" height="80">
+  <img src="./image/figma-original.svg" alt="figma" width="80" height="80">
+  <img src="./image/nodejs-plain-wordmark.svg" alt="node.js" width="80" height="80">
+  <img src="./image/express-original-wordmark.svg" alt="express" width="80" height="80">
+  <img src="./image/mongodb-plain-wordmark.svg" alt="mongoDB" width="80" height="80">
+  <img src="./image/postman-plain-wordmark.svg" alt="postman" width="80" height="80">
+  <img src="./image/git-plain-wordmark.svg" alt="git" width="80" height="80">
 </div>
+
+## Statistics
+![CodeWars](https://github-profile-summary-cards.vercel.app/demo.html)
 
 
 <div id="contacts" align="center">
