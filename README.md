@@ -1,5 +1,4 @@
 <img src="./image/header.png" alt="theme">
-<h3 id="header" align="center"> I'm Front-End Developer (junior)</h3>
 
 ## About me: 
 * I'm currently learning programming
@@ -23,11 +22,16 @@
 </div>
 
 ## Statistics
+<div align="center">
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Se-Un&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Se-Un&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Se-Un&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Se-Un&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Se-Un&theme=github_dark&utcOffset=8)
+
+</div>
+
 
 <div id="contacts" align="center">
   <h1>Contact me:</h1>
