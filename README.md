@@ -23,7 +23,7 @@
 </div>
 
 ## Statistics
-![CodeWars](https://github-profile-summary-cards.vercel.app/demo.html)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Se-Un&theme=github_dark)
 
 
 <div id="contacts" align="center">
