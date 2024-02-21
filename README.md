@@ -23,8 +23,11 @@
 </div>
 
 ## Statistics
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Se-Un&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Se-Un&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Se-Un&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Se-Un&theme=github_dark)
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Se-Un&theme=github_dark&utcOffset=8)
 
 <div id="contacts" align="center">
   <h1>Contact me:</h1>
