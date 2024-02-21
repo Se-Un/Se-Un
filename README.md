@@ -1,7 +1,14 @@
-<img src="./header.png" alt="theme">
+<img src="./image/header.png" alt="theme">
 <h3 id="header" align="center"> I'm Front-End Developer (junior)</h3>
 
-## About me
+## About me: 
+* I'm currently learning programming
+* I write clean and understandable code
+* Know about my experiences [CV](https://spb.hh.ru/resume/a8076163ff0ce127950039ed1f5852746e4b6c)
+* Write to me on [Telegram](https://t.me/skim1994)
+
+## Languages and Tools
+[HTML](./image/html5-original.svg)
 
 
 <div id="contacts" align="center">
