@@ -8,7 +8,7 @@
 * Write to me on [Telegram](https://t.me/skim1994)
 
 ## Languages and Tools
-[](./image/html5-original.svg)
+![HTML](./image/html5-original.svg)
 
 
 <div id="contacts" align="center">
