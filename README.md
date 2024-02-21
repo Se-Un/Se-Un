@@ -29,6 +29,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Se-Un&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Se-Un&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Se-Un&theme=github_dark&utcOffset=8)
+![](https://www.codewars.com/users/Se-Un/badges/large)
 
 </div>
 
