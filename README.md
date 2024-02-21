@@ -8,7 +8,19 @@
 * Write to me on [Telegram](https://t.me/skim1994)
 
 ## Languages and Tools
-![HTML](./image/html5-original.svg)
+<div id="images">
+  <img src="./image/html5-original.svg" alt="html" width="40" height="40">
+  <img src="./image/css3-original.svg" alt="css" width="40" height="40">
+  <img src="./image/javascript-original.svg" alt="js" width="40" height="40">
+  <img src="./image/react-original-wordmark.svg" alt="react" width="40" height="40">
+  <img src="./image/webpack-plain-wordmark.svg" alt="webpack" width="40" height="40">
+  <img src="./image/figma-original.svg" alt="figma" width="40" height="40">
+  <img src="./image/nodejs-plain-wordmark.svg" alt="node.js" width="40" height="40">
+  <img src="./image/express-original-wordmark.svg" alt="express" width="40" height="40">
+  <img src="./image/mongodb-plain-wordmark.svg" alt="mongoDB" width="40" height="40">
+  <img src="./image/postman-plain-wordmark.svg" alt="postman" width="40" height="40">
+  <img src="./image/git-plain-wordmark.svg" alt="git" width="40" height="40">
+</div>
 
 
 <div id="contacts" align="center">
