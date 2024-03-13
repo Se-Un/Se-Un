@@ -1,4 +1,4 @@
-<img src="./image/header.png" alt="theme">
+<img src="./image/image.png" alt="theme">
 
 ## About me: 
 * I'm currently learning programming
